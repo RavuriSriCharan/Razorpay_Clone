@@ -1,7 +1,8 @@
 # Razopay-Clone-Landing-Page-Website-Template
 
-# This is a responsive clone of the Razorpay landing page built using modern web development technologies. The goal of this project was to   replicate the design and layout of the original Razorpay website landing page for learning and practice purposes.
-
+#
+ This is a responsive clone of the Razorpay landing page built using modern web development technologies. The goal of this project was to   replicate the design and layout of the original Razorpay website landing page for learning and practice purposes.
+ 
 # Features
 
    - Fully responsive design (mobile-friendly)
